@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Test Post
+title: Hello World!
 published: true
 ---
 
-Hello World!
+Hello World! I will update this site with whatever I find interesting over time. More organized than a social media site, anyways. Hope I get more used to the format here...
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![Pikachu Under Construction]({{site.baseurl}}/_posts/a742fbe8ed45f6455cc767ab4c41997e_w200.gif)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
