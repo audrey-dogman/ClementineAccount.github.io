@@ -1,1 +1,1 @@
-It's just a Jekyll-Now fork lol
+It's just a Jekyll-Now fork.
