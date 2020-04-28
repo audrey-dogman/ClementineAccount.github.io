@@ -2,14 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+I’m Clementine, I am currently living in Singapore and I was born in 1999.
+This site is where I post information about my personal projects and game development findings. 
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[ClementinePersonal@gmail.com](mailto:ClementinePersonal@gmail.com)

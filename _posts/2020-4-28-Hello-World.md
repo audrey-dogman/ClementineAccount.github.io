@@ -19,4 +19,3 @@ Will work on polishing up and cleaning this site over time. For now I am going t
 ![AtAthensRhodes1319bookconstruction.gif]({{site.baseurl}}/images/AtAthensRhodes1319bookconstruction.gif)  
 	
 [source](http://textfiles.com/underconstruction/)
-
